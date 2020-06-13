@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "diff": "node diff.js"
+  },
+  "dependencies": {
+    "htmldiff-js": "^1.0.5"
+  }
+}
